@@ -1,7 +1,7 @@
-## OIBGRIP
+# OIBGRIP
 This repo is about the tasks that I have done for Oasis Infobyte Internship
 
-# Task 1
+## Task 1
 In the task 1,I have designed a landing page of an investment web application named 'Investo'
 Here, I have used HTML, CSS and basic Javascript.
 
