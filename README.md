@@ -14,8 +14,8 @@ The following are the features of Landing page:
 4) Section-3, consisting of a table which compares the services provided in each plan.
 5) Footer, basic copyright text.
 
-##Task 2
-In the task 1, I have designed my Portfolio Website,
+## Task 2
+In the task 2, I have designed my Portfolio Website,
 where I have used HTML, CSS and basic Javascript.
 
 The following are the features of my Portfolio Website: 
