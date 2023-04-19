@@ -13,7 +13,8 @@ The following are the features of Landing page:
 3) Section-2, consisting of 3 boxes providing the details of the plans to be chosen by the user
 4) Section-3, consisting of a table which compares the services provided in each plan.
 5) Footer, basic copyright text.
-prekshathakkar51.github.io/Investo/
+
+href="prekshathakkar51.github.io/Investo/"
 
 ## Task 2
 In the task 2, I have designed my Portfolio Website,
